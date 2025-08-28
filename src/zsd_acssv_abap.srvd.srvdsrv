@@ -1,0 +1,4 @@
+@EndUserText.label: 'Expondo a CDS View'
+define service ZSD_ACSSV_ABAP {
+  expose zcds_acssv_CDS_VIEW as Travel;
+}
